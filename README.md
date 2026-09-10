@@ -63,13 +63,7 @@ I believe that consistent effort leads to progress, and with **Allah's guidance*
 
 
 
-##  Profile Summary
 
-<div align="center">
-
-![Profile Views](https://komarev.com/dhpvc/?username=dravdzo\&color=blue\&style=for-the-badge)
-
-</div>
 
 
 
