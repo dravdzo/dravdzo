@@ -1,3 +1,14 @@
+
+<div align="center">
+
+<img src="assesst/images/myDragon.jpeg" width="100%" />
+
+</div>
+
+# Who Am I?
+
+
+
 # Who Am I?
 
 ### Hi, I'm Ahmed Waleed, also known as dravdzo
